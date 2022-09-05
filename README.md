@@ -54,12 +54,12 @@ monitor_speed = 921600
 
 # 各サンプルの ビルド & 実行方法
 1. VSCode を開く
-2. PlatformIO を選択して Open で開く
+2. PlatformIO を選択して Open で開く  
+<img src="./resources/PlatformIO2.png" width="300">
 3. Open Project で `examples` 以下のサンプルを指定する
 4. 表示 -> コマンドパレット で `PlatformIO Upload` を検索して実行する
+   - キーボードショートカット control + option + u でも実行できる
 5. 実機で ビルド結果が動作する
-
-<img src="./resources/PlatformIO2.png" width="300">
 
 # サンプルコード
 
