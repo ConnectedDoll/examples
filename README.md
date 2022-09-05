@@ -61,9 +61,19 @@ monitor_speed = 921600
    - キーボードショートカット control + option + u でも実行できる
 5. 実機で ビルド結果が動作する
 
+# コンソールの確認
+1. VSCode を開く
+2. PlatformIO を選択して Open で開く  
+<img src="./resources/PlatformIO2.png" width="300">
+3. Open Project で `examples` 以下のサンプルを指定する
+4. 表示 -> コマンドパレット で `Serial Monitor` を検索して実行する
+   - キーボードショートカット control + option + s でも実行できる
+5. Serial.print 内容が表示される
+
 # サンプルコード
 
 | 名前 | 内容 | 備考 | 
 |:--:|:--:|:--:|
-|Blink|LED 点灯のテストコードです||
-
+|Blink|LED 点灯のテストコード|./examples/Blink|
+|WiFi Client| WiFi 接続テストコード|./examples/WiFiClient|
+|HTTPサーバー| HTTPサーバーテストコード ブラウザから LED点灯,消灯|./examples/HttpServer|
