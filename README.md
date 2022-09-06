@@ -74,6 +74,7 @@ monitor_speed = 921600
 
 | 名前 | 内容 | 備考 | 
 |:--:|:--:|:--:|
-|Blink|LED 点灯のテストコード|./examples/Blink|
-|WiFi Client| WiFi 接続テストコード|./examples/WiFiClient|
-|HTTPサーバー| HTTPサーバーテストコード ブラウザから LED点灯,消灯|./examples/HttpServer|
+|Blink|LED 点滅|./examples/Blink|
+|WiFi Client| WiFi クライアント接続|./examples/WiFiClient|
+|WiFi AP| WiFi APモード|./examples/WiFiAp|
+|HTTPサーバー| HTTPサーバー / ブラウザから LED点灯,消灯|./examples/HttpServer|
