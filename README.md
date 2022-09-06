@@ -76,5 +76,5 @@ monitor_speed = 921600
 |:--:|:--:|:--:|
 |Blink|LED 点滅|./examples/Blink|
 |WiFi Client| WiFi クライアント接続|./examples/WiFiClient|
-|WiFi AP| WiFi APモード|./examples/WiFiAp|
 |HTTPサーバー| HTTPサーバー / ブラウザから LED点灯,消灯|./examples/HttpServer|
+|WiFi AP| WiFi APモード|./examples/WiFiAp|
