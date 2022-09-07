@@ -78,3 +78,4 @@ monitor_speed = 921600
 |WiFi Client| WiFi クライアント接続|./examples/WiFiClient|
 |HTTPサーバー| HTTPサーバー / ブラウザから LED点灯,消灯|./examples/HttpServer|
 |WiFi AP| WiFi APモード|./examples/WiFiAp|
+|MP3 Player|MP3再生|./examples/MP3Player|
