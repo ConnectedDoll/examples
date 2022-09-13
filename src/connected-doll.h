@@ -4,8 +4,12 @@
 #define IO0 0
 #define LED1 13
 
+// I2S MAX98357A
 #define I2S_BCLK 26
 #define I2S_LRC  25
 #define I2S_DOUT 21
+
+// IO4 NeoPixels
+#define RGB_LED_PIN 4
 
 #endif // __CONNECTED_DOLL_
