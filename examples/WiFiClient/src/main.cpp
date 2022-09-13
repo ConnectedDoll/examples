@@ -2,7 +2,7 @@
 #include <WiFi.h>
 #include "connected-doll.h"
  
-// Wi-Fi接続情報を入力 ルーターへの接続情報
+// 自分の環境の WiFi接続情報に書き換える
 #define WiFI_SSID "Pixel_7159"
 #define WiFI_PASSWORD "649cdf5db55e"
 
