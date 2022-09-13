@@ -1,5 +1,16 @@
-# ConnectedDoll サンプル
+# ConnectedDoll サンプルリポジトリ
 
+## 概要
+インターネット上にある音声データを再生する装置を作れるキットです。  
+ESP32 for Arduino互換ボード なので 独自ファームの開発も可能です。
+
+<img src="./resources/photo01.jpg" width="400">
+
+# 必要な知識など
+- ESP32 for Arduino 
+- Wi-Fi の 基本的な設定
+- PlatformIO IDE の 簡単な使い方
+  
 # 環境構築
 開発環境は PlatformIO IDE を利用します。
 [PlatformIO Doc](https://docs.platformio.org/en/latest/)
@@ -32,7 +43,16 @@
 #ifndef __CONNECTED_DOLL_
 #define __CONNECTED_DOLL_
 
+#define IO0 0
 #define LED1 13
+
+// I2S MAX98357A
+#define I2S_BCLK 26
+#define I2S_LRC  25
+#define I2S_DOUT 21
+
+// IO4 NeoPixels
+#define RGB_LED_PIN 4
 
 #endif // __CONNECTED_DOLL_
 
