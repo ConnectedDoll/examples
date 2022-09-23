@@ -12,4 +12,9 @@
 // IO4 NeoPixels
 #define RGB_LED_PIN 4
 
+// タッチセンサー
+#define TOUCH7 T7
+#define TOUCH8 T8
+#define TOUCH9 T9
+
 #endif // __CONNECTED_DOLL_
