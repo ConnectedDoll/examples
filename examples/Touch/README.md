@@ -1,5 +1,5 @@
-# BLINK
-LED 点滅サンプル
+# TOUCH
+タッチセンサー サンプル
 
 # 環境構築
 開発環境は PlatformIO IDE を利用します。
