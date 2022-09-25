@@ -17,4 +17,8 @@
 #define TOUCH8 T8
 #define TOUCH9 T9
 
+// i2c
+#define I2C_SCL 22
+#define I2C_SDA 23
+
 #endif // __CONNECTED_DOLL_
