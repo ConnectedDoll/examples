@@ -1,5 +1,5 @@
 # HTTP_MP3_PLAYER
-指定URLの MP3 ストリーミング再生するサンプル
+SPIFFSに保存された MP3を再生するサンプル
 
 # 環境構築
 開発環境は PlatformIO IDE を利用します。
