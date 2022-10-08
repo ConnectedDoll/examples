@@ -70,3 +70,5 @@ nbbuild.xml
 nbproject
 
 /examples/._*
+
+/examples/ShigezoneDemo
