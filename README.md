@@ -105,4 +105,5 @@ monitor_speed = 921600
 |HTTPサーバー| HTTPサーバー / ブラウザから LED点灯,消灯|./examples/HttpServer|
 |WiFi AP| WiFi APモード|./examples/WiFiAp|
 |Touch| タッチセンサー |./examples/Touch|
+|ServoPCA9685| サーボドライバ |./examples/ServoPCA9685|
 |HTTP MP3 Player| MP3 ストリーミング再生 |./examples/HttpMp3Player|
