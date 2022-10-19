@@ -100,6 +100,7 @@ monitor_speed = 921600
 | 名前 | 内容 | 備考 | 
 |:--:|:--:|:--:|
 |Blink|LED 点滅|./examples/Blink|
+|EspInfo|ESP32モジュール情報取得|./examples/EspInfo|
 |RGB Blink|RGB LED 点滅|./examples/RgbBlink|
 |WiFi Client| WiFi クライアント接続|./examples/WiFiClient|
 |HTTPサーバー| HTTPサーバー / ブラウザから LED点灯,消灯|./examples/HttpServer|
